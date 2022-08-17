@@ -1,7 +1,8 @@
 # Shortcut Key
 
-|  | Command+C |  |
+|  |  |  |
 | --- | --- | --- |
+|  | Command+C |  |
 |  | Command+V |  |
 |  | Command+S |  |
 |  | Command+Z |  |
